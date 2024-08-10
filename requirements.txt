@@ -1,2 +1,4 @@
 django
 gunicorn
+sqlite3
+pillow
