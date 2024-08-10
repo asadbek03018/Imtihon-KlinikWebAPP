@@ -1,4 +1,4 @@
 whitenoise
-django
+django==5.0
 gunicorn
 pillow
